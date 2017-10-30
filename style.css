@@ -1,4 +1,8 @@
-	
+
+body {
+    backgroung-image: url("universe.jpg);	
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
