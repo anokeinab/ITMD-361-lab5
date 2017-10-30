@@ -1,8 +1,7 @@
 body {
-    backgroung-image: url("universe.png");	
-    backgroung-color: #003366;
+    background-image: url("universe.png");
+    background-color: #003366;
 }
-
 table {
     border-collapse: collapse;
     width: 100%;
