@@ -3,11 +3,12 @@ body{
 }
 table {
     border-collapse: collapse;
-    width: 200%;
+    width: 500%;
 }
 /*styled the text inside the table*/
 th, td {
     text-align: center;
+    text-font: arial;
     padding: 8px;
     color: white;
 }
