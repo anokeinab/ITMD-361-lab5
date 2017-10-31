@@ -3,17 +3,19 @@ body{
 }
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 200%;
 }
-
+/*styled the text inside the table*/
 th, td {
     text-align: center;
     padding: 8px;
-		color: white;
+    color: white;
 }
-
-tr:nth-child(even){background-color: #82CAFA}
-
+/*change the color of any even row */
+tr:nth-child(even){
+background-color: #82CAFA
+}
+/*change th background color of the first row*/
 th {
     background-color: #003366;
     color: white;
