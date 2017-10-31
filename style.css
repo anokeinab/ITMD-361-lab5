@@ -11,6 +11,7 @@ th, td {
     text-font: arial;
     padding: 8px;
     color: white;
+    height: 50px;
 }
 /*change the color of any even row */
 tr:nth-child(even){
