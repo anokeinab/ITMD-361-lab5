@@ -6,11 +6,11 @@ body{
     text-align: center;
     font-family: arial;
     color: white;
+}
 .position_table{
     padding: 960px;
 }
     
-}
 table {
     border-collapse: collapse;
     width: 100%;
