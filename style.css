@@ -2,7 +2,7 @@ body{
     background-image: url("images/universe.png");
 }
 
-header{
+.title{
     margin-left: auto;
 }
 table {
