@@ -8,7 +8,7 @@ table {
 /*styled the text inside the table*/
 th, td {
     text-align: center;
-    text-font: arial;
+    font-family: arial;
     font-size: 16px;
     padding: 8px;
     color: white;
