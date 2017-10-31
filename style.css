@@ -1,6 +1,10 @@
 body{
     background-image: url("images/universe.png");
 }
+
+header{
+    margin: auto;
+}
 table {
     border-collapse: collapse;
     width: 100%;
