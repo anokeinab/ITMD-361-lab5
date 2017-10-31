@@ -1,12 +1,14 @@
 body{
     background-image: url("images/universe.png");
 }
-
+.title{
+    padding: 35px;
+}
 .title h1{
     text-align: center;
     font-family: arial;
     color: white;
-    padding: 35px;
+    
 }
 .position_table{
     padding: 70px 0;
