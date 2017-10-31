@@ -9,9 +9,10 @@ table {
 th, td {
     text-align: center;
     text-font: arial;
+    font-size: 18px;
     padding: 8px;
     color: white;
-    height: 50px;
+    height: 80px;
 }
 /*change the color of any even row */
 tr:nth-child(even){
